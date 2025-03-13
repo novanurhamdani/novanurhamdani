@@ -27,5 +27,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=novanurhamdani&show_icons=true&locale=en&layout=compact" alt="novanurhamdani" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=novanurhamdani&show_icons=true&locale=en" alt="novanurhamdani" /></p>
