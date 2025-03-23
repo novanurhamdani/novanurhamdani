@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nova Nurhamdani</h1>
-<h3 align="justify">Frontend Engineer with 3+ years of experience in JavaScript and TypeScript, specializing in React.js, Next.js, and React Native. Proven track record of building scalable, user-friendly web and mobile applications. Skilled in state management (xState, Redux, React Context), dynamic form generation (React JSON Schema Form), and WordPress development, including custom plugin creation for seamless content management. Passionate about clean code, best practices, and delivering seamless digital experiences.</h3>
+<p align="justify">Frontend Engineer with 3+ years of experience in JavaScript and TypeScript, specializing in React.js, Next.js, and React Native. Proven track record of building scalable, user-friendly web and mobile applications. Skilled in state management (xState, Redux, React Context), dynamic form generation (React JSON Schema Form), and WordPress development, including custom plugin creation for seamless content management. Passionate about clean code, best practices, and delivering seamless digital experiences.</p>
 
 - 👨‍💻 All of my projects are available at [https://novanop.com](https://novanop.com)
 
@@ -18,7 +18,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a> 
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/></a> 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
